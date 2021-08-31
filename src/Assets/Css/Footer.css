@@ -1,4 +1,10 @@
 footer {
-    background-color: aquamarine;
+    background-color: rgba(100, 240, 50, 0.3);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.ul {
+    color: white;
 }
