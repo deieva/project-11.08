@@ -8,3 +8,8 @@ footer {
 .ul {
     color: white;
 }
+
+.white-text {
+    color: white;
+    text-decoration: none;
+}
