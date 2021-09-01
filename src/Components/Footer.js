@@ -12,18 +12,18 @@ function Footer() {
             <small className="d-block mb-3 text-muted">&copy; 2017-2018</small>
           </div>
           <div className="col-6 col-md">
-            <h5>Features</h5>
+            <h6 className="footer-titles">FEATURES</h6>
             <ul className="list-unstyled text-small">
               <li><a className="white-text" href="#">Cool stuff</a></li>
               <li><a className="white-text" href="#">Random feature</a></li>
               <li><a className="white-text" href="#">Team feature</a></li>
-              <li><a className="text-muted" href="#">Stuff for developers</a></li>
-              <li><a className="text-muted" href="#">Another one</a></li>
-              <li><a className="text-muted" href="#">Last time</a></li>
+              <li><a className="white-text" href="#">Stuff for developers</a></li>
+              <li><a className="white-text" href="#">Another one</a></li>
+              <li><a className="white-text" href="#">Last time</a></li>
             </ul>
           </div>
           <div className="col-6 col-md">
-            <h5>Resources</h5>
+            <h6 className="footer-titles">RESOURCES</h6>
             <ul className="list-unstyled text-small">
               <li><a className="white-text" href="#">Resource</a></li>
               <li><a className="white-text" href="#">Resource name</a></li>
@@ -32,7 +32,7 @@ function Footer() {
             </ul>
           </div>
           <div className="col-6 col-md">
-            <h5>About</h5>
+            <h6 className="footer-titles">ABOUT</h6>
             <ul className="list-unstyled text-small">
               <li><a className="white-text"  href="#">Team</a></li>
               <li><a className="white-text" href="#">Locations</a></li>
