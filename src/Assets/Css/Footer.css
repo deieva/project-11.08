@@ -18,3 +18,7 @@ footer {
 .footer-titles {
     font-weight: 500;
 }
+
+.footer-titles:hover {
+   color:darkblue;
+}
