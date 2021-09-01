@@ -34,7 +34,7 @@ function Footer() {
           <div className="col-6 col-md">
             <h5>About</h5>
             <ul className="list-unstyled text-small">
-              <li><a  href="#">Team</a></li>
+              <li><a className="white-text"  href="#">Team</a></li>
               <li><a  href="#">Locations</a></li>
               <li><a  href="#">Privacy</a></li>
               <li><a  href="#">Terms</a></li>
