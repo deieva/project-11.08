@@ -9,7 +9,7 @@ function Footer() {
         <div className="row">
           <div className="col-12 col-md">
             <img className="mb-2" src={logo} alt="logo with birds" width="374" height="200"/>
-            <small className="d-block mb-3 text-muted">&copy; 2017-2021</small>
+            <small className="d-block mb-3" style={{color: 'white', marginLeft: '25px'}}>&copy; 2017-2021</small>
           </div>
           <div className="col-6 col-md">
             <h6 className="footer-titles">FEATURES</h6>

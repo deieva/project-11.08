@@ -1,8 +1,8 @@
 footer {
     background-color: rgba(100, 240, 50, 0.3);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
     text-decoration: none;
+    border: 0px;
 }
 
 
@@ -17,6 +17,10 @@ footer {
     font-weight: 500;
 }
 
-.footer-titles:hover {
-   color:darkblue;
+.white-text:hover {
+    color: black
 }
+
+/* .footer-titles:hover {
+   color:darkblue;
+} */
