@@ -8,7 +8,7 @@ function Footer() {
              <footer className="pt-4 my-md-5 pt-md-5 border-top">
         <div className="row">
           <div className="col-12 col-md">
-            <img className="mb-2" src={logo} alt="logo with birds" width="374" height="174"/>
+            <img className="mb-2" src={logo} alt="logo with birds" width="374" height="200"/>
             <small className="d-block mb-3 text-muted">&copy; 2017-2021</small>
           </div>
           <div className="col-6 col-md">

@@ -4,6 +4,9 @@ function Home() {
 
     return (
         <div className="test-container">
+            <h1>
+                Welcome to the nature 
+            </h1>
                     <div className="text-center header-wrapper">
                         <div className="p-4">
                             <div className="button-wrapper">
