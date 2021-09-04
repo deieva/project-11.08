@@ -14,7 +14,7 @@ function App() {
                   <Home />
               </Route>
 
-              <Route path="/page404">
+              <Route>
                   <Page404 />
               </Route>
 
