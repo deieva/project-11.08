@@ -5,7 +5,6 @@ footer {
 }
 
 
-
 .white-text {
     color: white;
     text-decoration: none;
@@ -18,4 +17,5 @@ footer {
 
 .white-text:hover {
     color: black;
+    font-size: 18px;
 }
