@@ -5,7 +5,7 @@ function Footer() {
 
     return (
         <div>
-             <footer className="pt-4 my-md-5 pt-md-5 border-top">
+             <footer className="pt-4 my-md-3 pt-md-3 border-top">
         <div className="row">
           <div className="col-12 col-md">
             <img className="mb-2" src={logo} alt="logo with birds" width="374" height="200"/>
