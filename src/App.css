@@ -1,12 +1,13 @@
 body {
     background-image: url('https://i.picsum.photos/id/121/1600/1067.jpg?hmac=QDrnlQAvC_54xDpx2afpzKMbjCZvnRljseYvkK8XPCQ');
     overflow-x: hidden;
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 
 .test-container {
-    
-    margin-top: 15%;
+    margin-left: 33%;
+    margin-top: 20%;
 }
 
 
@@ -35,6 +36,10 @@ body {
     text-shadow: 2px 2px black;
     outline-color: rgba(71, 126, 132, 0);
     outline-offset: 100px;
+}
+
+.phrase {
+    position: relative;
 }
 
 

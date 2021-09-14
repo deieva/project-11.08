@@ -1,9 +1,12 @@
+import '../Assets/Css/Header.css';
+
+
 function Header() {
 
     return (
 
         <div>
-            <nav className="navbar navbar-expand-md navbar-light bg-transparent" style={{marginLeft: '70px'}}>
+            <nav className="navbar navbar-expand-md navbar-light">
                 <div className="container-fluid">
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
