@@ -1,10 +1,11 @@
 body {
     background-image: url('https://i.picsum.photos/id/121/1600/1067.jpg?hmac=QDrnlQAvC_54xDpx2afpzKMbjCZvnRljseYvkK8XPCQ');
     overflow-x: hidden;
+    width: 100%;
 }
 
 .test-container {
-    margin-left: 35%;
+    
     margin-top: 15%;
 }
 
