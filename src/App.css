@@ -6,7 +6,6 @@ body {
 }
 
 .test-container {
-    margin-left: 33%;
     margin-top: 20%;
 }
 
@@ -23,7 +22,7 @@ body {
     color: pink;
     text-shadow: 2px 2px black;
     cursor: pointer;
-    max-width: 400px;
+    max-width: 300px;
     width: 100%;
     outline: 3px solid;
     outline-color: pink;

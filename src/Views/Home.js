@@ -7,10 +7,10 @@ function Home() {
             <h1>
                 Welcome to the nature 
             </h1>
-                    <div className="text-center header-wrapper">
+                    <div className="text-center header-wrapper sm-12 md-6 lg-12">
                         <div className="sm-3 md-3 p-3">
                             <div className="button-wrapper">
-                                <NavLink to="/" className="phrase">
+                                <NavLink to="/" className="sm-3">
                                     <p className="animated-phrase">Join!</p>
                                 </NavLink>
                             </div>
