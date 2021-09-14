@@ -1,0 +1,9 @@
+.test-container {
+    display: none;
+  }
+
+  @include media-breakpoint-up(sm) {
+    .test-container {
+      display: block;
+    }
+  }

@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 function Home() {
 
     return (
-        <div className="test-container">
+        <div className="test-container md-3 sm-3">
             <h1>
                 Welcome to the nature 
             </h1>
