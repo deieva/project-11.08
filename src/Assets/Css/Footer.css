@@ -2,6 +2,7 @@ footer {
     background-color: rgba(100, 240, 50, 0.3);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
+    padding-left: 7px;
 }
 
 
@@ -18,4 +19,11 @@ footer {
 .white-text:hover {
     color: black;
     font-size: 18px;
+}
+
+.year {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
