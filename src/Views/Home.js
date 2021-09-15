@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import '../Assets/Css/Home.css';
 
 function Home() {
 
