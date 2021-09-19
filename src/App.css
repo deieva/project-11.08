@@ -1,5 +1,6 @@
 body {
     background-image: url('https://i.picsum.photos/id/121/1600/1067.jpg?hmac=QDrnlQAvC_54xDpx2afpzKMbjCZvnRljseYvkK8XPCQ');
+    background: 100vh;
     overflow-x: hidden;
     max-width: 100%;
     height: auto;
